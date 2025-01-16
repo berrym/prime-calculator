@@ -14,7 +14,9 @@ For details check with your OS distribution or visit https://rust-lang.org for m
 
 ### Building and Executing
 
-Clone the git repository from https://github.com/berrym/prime_calculator.git
+Clone the git repository
+
+    $ git clone https://github.com/berrym/prime-calculator.git
 
 Use Rust's own tooling to compile and run the program, e.g.
 
