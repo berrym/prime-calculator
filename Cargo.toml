@@ -1,0 +1,18 @@
+[package]
+name = "prime-calculator"
+version = "0.1.0"
+authors = ["Michael Berry <trismegustis@gmail.com>"]
+license = "MIT"
+license-file = "LICENSE"
+readme = "README.md"
+homepage = "https://github.com/berrym/prime-calculator"
+repository = "https://github.com/berrym/prime-calculator.git"
+edition = "2021"
+
+[[bin]]
+name = "primes"
+path = "src/main.rs"
+
+[dependencies]
+clap = { version = "4.5.26", features = ["derive"] }
+colored = "3.0.0"
