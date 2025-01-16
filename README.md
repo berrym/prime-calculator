@@ -9,7 +9,7 @@ A small command line application to calculate prime numbers.
 
 ## Getting started
 
-Install the mose recent version of Rust using your OS distributions package manager or Rust's own preferred rustup.time
+Install the mose recent version of Rust using your OS distributions package manager or Rust's own preferred rustup.
 For details check with your OS distribution or visit https://rust-lang.org for more information.
 
 ### Building and Executing
